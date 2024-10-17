@@ -1,13 +1,13 @@
 # Site
 name: "Honorios Dev"
 title: "Honorios Dev"
-description: "Aprendendo o mundo da programação"
+description: "Tornando-se um Desenvolvedor de Software"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 'https://wellingtonhm.github.io/honoriosdev'
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: ''
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
@@ -17,10 +17,10 @@ authors:
     name: Wellington
     display_name: Wellington
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.honorios.dev
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: honorios.dev@gmail.com
+    web: https://wellingtonhm.github.io/honoriosdev
+    twitter: https://twitter.com/
+    description: "Autor do Honorios.Dev, aprendendo linguagens de programção para me tornar um Desenvolvedor de Software, no momento desenvolvendo na linguagem C# e seu Framework .NET e BD MySQL"
 
 # Plugins
 plugins:
